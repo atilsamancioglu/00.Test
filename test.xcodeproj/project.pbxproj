@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FC1952571DF44E2F00C13EBC /* PeopleClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC1952561DF44E2F00C13EBC /* PeopleClass.swift */; };
 		FC32ACD91DF41F1B0020A7E9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC32ACD81DF41F1B0020A7E9 /* AppDelegate.swift */; };
 		FC32ACDB1DF41F1B0020A7E9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC32ACDA1DF41F1B0020A7E9 /* ViewController.swift */; };
 		FC32ACDE1DF41F1B0020A7E9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC32ACDC1DF41F1B0020A7E9 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FC1952561DF44E2F00C13EBC /* PeopleClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PeopleClass.swift; sourceTree = "<group>"; };
 		FC32ACD51DF41F1B0020A7E9 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC32ACD81DF41F1B0020A7E9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FC32ACDA1DF41F1B0020A7E9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				FC32ACD81DF41F1B0020A7E9 /* AppDelegate.swift */,
 				FC32ACDA1DF41F1B0020A7E9 /* ViewController.swift */,
+				FC1952561DF44E2F00C13EBC /* PeopleClass.swift */,
 				FC32ACDC1DF41F1B0020A7E9 /* Main.storyboard */,
 				FC32ACDF1DF41F1B0020A7E9 /* Assets.xcassets */,
 				FC32ACE11DF41F1B0020A7E9 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FC32ACDB1DF41F1B0020A7E9 /* ViewController.swift in Sources */,
+				FC1952571DF44E2F00C13EBC /* PeopleClass.swift in Sources */,
 				FC32ACD91DF41F1B0020A7E9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				FC32ACE91DF41F1B0020A7E9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

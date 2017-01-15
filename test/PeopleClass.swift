@@ -7,3 +7,13 @@
 //
 
 import Foundation
+
+class People {
+    
+    var name = ""
+    var age = 0
+    var favoriteColor = ""
+    var favoriteBand = ""
+    var isADeveloper = true
+    
+}
